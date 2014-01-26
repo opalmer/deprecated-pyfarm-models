@@ -15,28 +15,9 @@
 PyFarm Models
 =============
 
-.. image:: https://badge.waffle.io/pyfarm/pyfarm-models.png?label=ready
-    :target: https://waffle.io/pyfarm/pyfarm-models
-    :align: left
-    
-.. image:: https://travis-ci.org/pyfarm/pyfarm-models.png?branch=master
-    :target: https://travis-ci.org/pyfarm/pyfarm-models
-    :align: left
+This repository has been merged into pyfarm/pyfarm-master so no
+further work will be accepted here.  This repo is being retained to
+preserve external links from pyfarm-master into this location.  For
+information about why this change was made see this discussion:
 
-.. image:: https://coveralls.io/repos/pyfarm/pyfarm-models/badge.png?branch=master
-    :target: https://coveralls.io/r/pyfarm/pyfarm-models?branch=master
-    :align: left
-
-
-Sub-library which contains the database models used by the admin interface and
-master server(s).  These models contains information and classes for:
-    * jobs and tasks
-    * tagging
-    * validation mixins
-    * interface classes for API usage and testing
-
-In addition to the models there's several core classes and functions which
-provide additional help including:
-    * central configuration of table naming and prefixes
-    * custom column types to serialize and deserialize data (IP addresses/json)
-    * functions to generate some common columns in a standard manner
+https://groups.google.com/a/pyfarm.net/d/msg/discuss/tNKsWTgaQpY/tKn1tmhN5kQJ
