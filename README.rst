@@ -12,8 +12,8 @@
 .. See the License for the specific language governing permissions and
 .. limitations under the License.
 
-PyFarm Models
-=============
+PyFarm Models (deprecated)
+==========================
 
 This repository has been merged into pyfarm/pyfarm-master so no
 further work will be accepted here.  This repo is being retained to
